@@ -1,5 +1,7 @@
 *.js.map
 *.ts
 .git*
-.vscodetest
+.vscode
+test
 tsconfig.json
+appsettings.json
